@@ -1,4 +1,4 @@
-from __future__ import annotations
+ from __future__ import annotations
 import numpy as np
 from numpy.linalg import inv, det, slogdet
 
